@@ -6,6 +6,6 @@ In this project, I want to dive in to technologies that can make this happen.
 
 ## To do
 
-[] static site using gatsby
-[] integrate netlify cms
-[] set up continous integration
+- [] static site using gatsby
+- [] integrate netlify cms
+- [] set up continous integration

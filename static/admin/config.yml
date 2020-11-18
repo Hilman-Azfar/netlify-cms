@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: Hilman-Azfar/netlify-cms
+  name: git-gateway
+  branch: main
 
 media_folder: static/img
 public_folder: /img

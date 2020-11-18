@@ -7,6 +7,8 @@ module.exports = {
     },
     description: `A blog for my knowledge bucket`,
     siteUrl: `https://thought-droplet.netlify.app/`,
+    github: `Hilman-Azfar`,
+    linkedIn: `Hilman-Azfar`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
